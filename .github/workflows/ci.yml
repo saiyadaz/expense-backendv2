@@ -2,5 +2,5 @@ name: Continuous Integration
 on: [push]
 jobs:
   call-continuous-integration-reusable:
-    uses: saiyadaz/devops/DEVOPS ITERATION 2/github-reusable-workflows/.github/workflows/ci.yml@main
+    uses: saiyadaz/github-reusable-workflows/.github/workflows/ci.yml@main
 
